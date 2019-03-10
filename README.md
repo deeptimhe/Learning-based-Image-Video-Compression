@@ -32,5 +32,9 @@ Recent papers and codes related to learning-based image/video compression. Mainl
 
 ### 2018
 
-1. [USTC] Z. Chen, T. He, X. Jin, F. Wu: Learning for video compression. Arxiv. [[Paper](https://arxiv.org/abs/1804.09869)]
-2. [UTEXAS] C. Wu, N. Singhal, P. Krähenbühl: Video Compression through Image Interpolation. Arxiv. [[Paper](https://arxiv.org/abs/1804.06919)]
+1. [USTC] Z. Chen, T. He, X. Jin, F. Wu: Learning for video compression. IEEE Trans. on CSVT 2018. [[Paper](https://ieeexplore.ieee.org/abstract/document/8610323)]
+2. [UTEXAS] C. Wu, N. Singhal, P. Krähenbühl: Video Compression through Image Interpolation. ECCV 2018. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Chao-Yuan_Wu_Video_Compression_through_ECCV_2018_paper.html)]
+3. [Disney] J. Han, S. Lombardo, C. Schroers, S. Mandt: Deep Probabilistic Video Compression. ArXiv. [[Paper](https://arxiv.org/abs/1810.02845)]
+4. [WaveOne] O. Rippel, S. Nair, C. Lew, S. Branson, A. G. Anderson, L. Bourdev: Learned Video Compression. ArXiv. [[Paper](https://arxiv.org/abs/1811.06981)]
+5. [SJTU/Sydney] G. Lu, W. Ouyang, D. Xu, X. Zhang, C. Cai, Z. Gao: DVC: An End-to-end Deep Video Compression Framework. ArXiv. [[Paper](https://arxiv.org/abs/1812.00101)]
+6. [UTEXAS] S. Kim, J. S. Park, C. G. Bampis, J. Lee, M. K. Markey, A. G. Dimakis, A. C. Bovik: Adversarial Video Compression Guided by Soft Edge Detection. ArXiv. [[Paper](https://arxiv.org/abs/1811.10673)]
