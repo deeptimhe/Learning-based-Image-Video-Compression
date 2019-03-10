@@ -22,9 +22,15 @@ Recent papers and codes related to learning-based image/video compression. Mainl
 ### 2018
 
 1. [Google] N. Johnston, D. Vincent, D. Minnen, M. Covell, S. Singh, T. Chinen, S. J. Hwang, J. Shor, G. Toderici: Improved lossy image compression with priming and spatially adaptive bit rates for recurrent networks. CVPR 2018. [[Paper](https://arxiv.org/abs/1703.10114)]
-2. [HKPU] M. Li, W. Zuo, S. Gu, D. Zhao and D. Zhang: Learning convolutional networks for content-weighted image compression. CVPR 2018. [[Paper](https://arxiv.org/abs/1703.10553)]
-3. [ETHZ] F. Mentzer, E. Agustsson, M. Tschannen, R. Timofte and L. Van Gool: Conditional probability models for deep image compression. CVPR 2018. [[Paper](https://arxiv.org/abs/1801.04260)]
-4. [Technion] T.R. Shaham and T. Michaeli: Deformation Aware Image Compression. CVPR 2018. [[Paper](https://arxiv.org/abs/1804.04593)]
+2. [HKPU] M. Li, W. Zuo, S. Gu, D. Zhao, D. Zhang: Learning convolutional networks for content-weighted image compression. CVPR 2018. [[Paper](https://arxiv.org/abs/1703.10553)]
+3. [ETHZ] F. Mentzer, E. Agustsson, M. Tschannen, R. Timofte, L. Van Gool: Conditional probability models for deep image compression. CVPR 2018. [[Paper](https://arxiv.org/abs/1801.04260)]
+4. [Technion] T.R. Shaham, T. Michaeli: Deformation Aware Image Compression. CVPR 2018. [[Paper](https://arxiv.org/abs/1804.04593)]
+5. [INRIA] T. Dumas, Aline, Roumy, C. Guillemot: Autoencoder based Image Compression: Can the Learning be Quantization Independent? ICASSP 2018. [[Paper](https://arxiv.org/abs/1802.09371)]
+6. [Google] D. Minnen, G. Toderici, S. Singh, S. J. Hwang, M. Covell: Image-Dependent Local Entropy Models for Learned Image Compression. ICIP 2018. [[Paper](https://arxiv.org/abs/1805.12295)]
+7. [Google] T. Chinen, J. Ballé, C. Gu, S. J. Hwang, S. Ioffe, N. Johnston, T. Leung, D. Minnen, S. O'Malley, C. Rosenberg, G. Toderici Towards A Semantic Perceptual Image Metric. ICIP 2018. [[Paper](https://arxiv.org/abs/1808.00447)]
+8. [RIT/PSU] A. G. Ororbia, A. Mali, J. Wu, S. O'Connell, D. Miller, C. L. Giles: Learned Neural Iterative Decoding for Lossy Image Compression Systems. ArXiv. [[Paper](https://arxiv.org/abs/1803.05863)]
+9. [SFU/Google] M. Akbari, J. Liang, J. Han: DSSLIC: Deep Semantic Segmentation-based Layered Image Compression. ArXiv. [[Paper](https://arxiv.org/abs/1806.03348)]
+10. [ETHZ] F. Mentzer, E. Agustsson, M. Tschannen, R. Timofte, L. V. Gool: Practical Full Resolution Learned Lossless Image Compression. ArXiv. [[Paper](https://arxiv.org/abs/1811.12817)]
 
 ----
 
